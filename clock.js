@@ -92,7 +92,7 @@ function showTime() {
 
     //console.log("mod: ",hour);
 
-    document.getElementById("clock").innerHTML = "<b>Clock: </b> " + day + " " + date + "th " + month + " " + year + ", " + hour + ":" + min + ":" + sec + " " + MV;
+    document.getElementById("clock").innerHTML = "<b>Clock: </b> " + day + " " + date + "nd " + month + " " + year + ", " + hour + ":" + min + ":" + sec + " " + MV;
 }
 
 setInterval(showTime, 1000);
