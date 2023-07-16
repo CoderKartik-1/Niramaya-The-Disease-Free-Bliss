@@ -10,6 +10,12 @@
   background-color: orange ;
 }
 
+#DT{
+  padding-top: 0;
+  background-color: rgb(231, 231, 145);
+  margin-bottom: 0;
+}
+
 li, a, button, marquee{
   font-family: "Montserrat", sans-serif;
   font-weight: 500;
